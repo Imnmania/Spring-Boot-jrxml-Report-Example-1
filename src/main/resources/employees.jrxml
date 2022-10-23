@@ -14,7 +14,7 @@
 
 	<field name="salary" class="java.lang.Long"></field>
 
-	<group name="Group1">
+	<!-- <group name="Group1">
 		<groupExpression><![CDATA[$F{id}]]></groupExpression>
 		<groupFooter>
 			<band/>
@@ -37,7 +37,7 @@
 		<groupFooter>
 			<band/>
 		</groupFooter>
-	</group>
+	</group> -->
 	<title>
 		<band height="72">
 			<frame>
